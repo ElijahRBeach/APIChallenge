@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://media.timeout.com/images/105697255/image.jpg);
+    background-attachment: fixed;
+}
+
+#interaction-box {
+    text-align: center;
+    color: paleturquoise;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p {
+    background-color: lightgrey;
+    opacity: 75%;
+    font-family: cursive;
+    font-size: large;
+    color: purple;
+}
+
+#film-list {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    color:paleturquoise;
+    font-family: Arial, Helvetica, sans-serif;
+}
